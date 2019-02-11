@@ -1,3 +1,5 @@
+// finalized version
+// to be used with HammingConverter32#2.v
 `include "HammingConverter32#2.v"
 
 module test();
