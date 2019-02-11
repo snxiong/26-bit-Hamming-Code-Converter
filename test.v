@@ -1,3 +1,4 @@
+// prototype for hamming converter
 `include "HammingConverter32.v"
 
 module test();
