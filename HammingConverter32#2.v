@@ -1,3 +1,5 @@
+// finalized version of hamming code converter
+
 module hamming
 (
 	input clock, reset,
