@@ -1,5 +1,5 @@
 // finalized version of hamming code converter
-
+// to be used with test2.v
 module hamming
 (
 	input clock, reset,
