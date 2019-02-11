@@ -1,3 +1,6 @@
+// prototype for hamming code converter
+
+
 module hamming
 (
 	input clock, reset,
